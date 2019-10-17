@@ -1,0 +1,116 @@
+.Fondo
+{
+	background-color: rgb(230,230,230);
+}
+
+
+.Container_Derecha{
+
+  float:right;
+ width:550px;
+ top:0;
+ left:0;
+}
+
+.ImagenPrincipal{
+	float:left;
+ width:550px;
+ top:100px;
+ left:400px;
+}
+
+
+#login {
+	padding:5px 0px;
+	background-color:#3b5998;
+	overflow:hidden;
+    font-family:'lucida grande',tahoma,verdana,arial,sans-serif;
+    font-size:11px;
+}
+        
+#login input[type=text],
+#login input[type=password] {
+    width:170px;
+    border:1px solid #000;
+}
+        
+#login input[type=checkbox] {
+    margin:auto;
+    vertical-align:top;
+}
+        
+#login input[type=submit] {
+    font-family:'lucida grande',tahoma,verdana,arial,sans-serif;
+    font-size:11px;
+    cursor:pointer;
+    color:#fff;
+    font-weight:bold;
+    line-height:13px;
+    background-color:#5b74a8;
+    padding:3px 5px;
+    border:1px solid;
+    border-color: #29447e #29447e #1a356e;
+}
+
+        .arriba1,.arriba2,.arriba3        {clear:both;}
+        .arriba2 #ImagenFacebook {float: left; width:200px; height:30px; margin-left:180px; }
+        .arriba2 .formulario1 {float:left;width:170px;padding:0px 10px; margin-left: 320px;}
+        .arriba2 .formulario2 {float:left;width:170px;padding:0px 10px; margin-left: 20px;}
+        .arriba2 .button{width:50px; float: right; margin-right: 200px;}
+        .titulo2        {color:#fff;margin-left: 10px; float:left;width: 100px;}
+        .titulo1        {color:#fff;margin-left: 710px; float:left;width: 180px;}
+        .texto          {color:#98a9ca;}
+        .texto a        {color:#98a9ca;text-decoration:none;margin-left: 900px;}
+
+
+#Contenedor{
+	padding-top: 30px;
+	padding-left: 50px;
+}
+
+#DivPrincipal{
+	padding-left: 50px;
+
+}
+
+#Regi {
+font-size:40px;
+color: black; 
+}
+
+#Rapi {
+font-size:20px;
+color: black; 
+}
+
+.agree{
+	font-size:10px;
+color: black; 
+}
+
+#Crea{
+	font-size:15px;
+color: black; 
+}
+
+.Regis{
+	width: 395px;
+}
+
+#FEC{
+	font-size:15px;
+    color: rgba(0,0,0,50%);
+    ; 
+}
+#gene{
+	font-size:15px;
+    color: rgba(0,0,0,50%);
+    ; 	
+}
+
+#Face{
+	margin-left: 30px;
+	font-size:18px;
+    color: rgb(0,0,150);
+    ; 	
+}
